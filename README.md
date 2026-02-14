@@ -19,3 +19,13 @@ Tech Stack
 - Languages: Python
 - Libraries: pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (optional for ML tasks)
 - Tools: Jupyter Notebook, Power BI/Excel (for visualization extensions)
+
+
+
+
+
+
+
+
+REQUIREMENT :
+1.make inventory.db file rest all is mentioned
